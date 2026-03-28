@@ -4,9 +4,16 @@
 
 Mermaid 版详细流程图可以看 [flowcharts.md](./flowcharts.md)。
 
-推荐后续放入：
+当前已生成：
 
-- `isp-full-pipeline.png`
-- `isp-block-map.png`
-- `isp-image-problem-map.png`
-- `isp-debug-flow.png`
+## `isp-full-pipeline.png`
+![isp-full-pipeline](./isp-full-pipeline.png)
+
+## `isp-block-map.png`
+![isp-block-map](./isp-block-map.png)
+
+## `isp-image-problem-map.png`
+![isp-image-problem-map](./isp-image-problem-map.png)
+
+## `isp-debug-flow.png`
+![isp-debug-flow](./isp-debug-flow.png)

@@ -4,9 +4,16 @@
 
 Mermaid 版详细流程图可以看 [flowcharts.md](./flowcharts.md)。
 
-推荐后续放入：
+当前已生成：
 
-- `awb-pipeline.png`
-- `awb-light-source-map.png`
-- `awb-mixed-light-case.png`
-- `awb-debug-sheet.png`
+## `awb-pipeline.png`
+![awb-pipeline](./awb-pipeline.png)
+
+## `awb-light-source-map.png`
+![awb-light-source-map](./awb-light-source-map.png)
+
+## `awb-mixed-light-case.png`
+![awb-mixed-light-case](./awb-mixed-light-case.png)
+
+## `awb-debug-sheet.png`
+![awb-debug-sheet](./awb-debug-sheet.png)

@@ -4,9 +4,16 @@
 
 Mermaid 版详细流程图可以看 [flowcharts.md](./flowcharts.md)。
 
-推荐后续放入：
+当前已生成：
 
-- `af-state-machine.png`
-- `af-search-curve.png`
-- `af-pdaf-flow.png`
-- `af-fail-case.png`
+## `af-state-machine.png`
+![af-state-machine](./af-state-machine.png)
+
+## `af-search-curve.png`
+![af-search-curve](./af-search-curve.png)
+
+## `af-pdaf-flow.png`
+![af-pdaf-flow](./af-pdaf-flow.png)
+
+## `af-fail-case.png`
+![af-fail-case](./af-fail-case.png)
